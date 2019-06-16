@@ -8,4 +8,4 @@ Following files included and it's necessary to run the VI.
 ## What is Dipsersion scan method?
 
 Measuring ultrashort pulse is one of the great challenge in ultrafast laser community. There are several methods to measure the pulse duration, i.e, 2-nd order autocorrellation, FROG, SPIDER. These methods are sufficient enought to measure few cycle pulse duration. However, when the pulse duration is close to single cycle then the previous methods are not sufficient enough due to nonlinear medium effect and geometrical issues. Dispersion scan is a simple and easy method characterizing near single cycle pulse. It is based on the introduction of a known amount of dispersion (by controlling the amount of dispersive material) and subsequent recording of the spectral positions of second harmonic peaks obtained in a non-linear crystal. Such dependence allows for direct retrieval of the pulse spectral phase. 
-
+More detailed information (experimental layout etc.) can be found here: https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-20-1-688&id=226118
