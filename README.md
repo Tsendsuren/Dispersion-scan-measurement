@@ -1,7 +1,9 @@
 # Dispersion scan LABVIEW program
 I have made LABVIEW program for acquiring dispersion scan trace using ESP301 Newport stage and HR4000 USB spectrometer from OceanOptics. 
 
-Labview driver and Firmware for ESP301 controller from Newport.
+Following files included and it's necessary to run the VI.
+1. Labview driver and Firmware for ESP301 controller from Newport.
+2. LABVIEW project file
 
 ## What is Dipsersion scan method?
 
