@@ -7,4 +7,5 @@ Following files included and it's necessary to run the VI.
 
 ## What is Dipsersion scan method?
 
-A simple and easy to implement technique for femtosecond pulse characterization is proposed and experimentally verified. It is based on the introduction of a known amount of dispersion (by controlling the number of passes through dispersive material) and subsequent recording of the spectral positions of second harmonic peaks obtained in a non-linear crystal. Such dependence allows for direct retrieval of the pulse spectral phase. 
+Measuring ultrashort pulse is one of the great challenge in ultrafast laser community. There are several methods to measure the pulse duration, i.e, 2-nd order autocorrellation, FROG, SPIDER. These methods are sufficient enought to measure few cycle pulse duration. However, when the pulse duration is close to single cycle then the previous methods are not sufficient enough due to nonlinear medium effect and geometrical issues. Dispersion scan is a simple and easy method characterizing near single cycle pulse. It is based on the introduction of a known amount of dispersion (by controlling the amount of dispersive material) and subsequent recording of the spectral positions of second harmonic peaks obtained in a non-linear crystal. Such dependence allows for direct retrieval of the pulse spectral phase. 
+
