@@ -1,4 +1,5 @@
-# ESP301 Drivers-Firmwares
+# Dispersion scan LABVIEW program
+I have made LABVIEW program for acquiring dispersion scan trace using ESP301 Newport stage and HR4000 USB spectrometer from OceanOptics. 
 
 Labview driver and Firmware for ESP301 controller from Newport.
 
